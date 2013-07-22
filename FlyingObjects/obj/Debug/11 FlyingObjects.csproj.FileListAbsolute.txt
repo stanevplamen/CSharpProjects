@@ -1,0 +1,9 @@
+C:\Users\Stanev\Documents\CSharpDocs\4.2-Homework-Solution16\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\4.2-Homework-Solution16\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\Stanev\Documents\CSharpDocs\4.2-Homework-Solution16\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\Stanev\Documents\CSharpDocs\4.2-Homework-Solution16\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Stanev\Documents\CSharpDocs\4.2-Homework-Solution16\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Stanev\Documents\CSharpDocs\4.2-Homework-Solution16\ConsoleApplication13\obj\Debug\11 FlyingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\01CSharpPart1\4.2-Homework-Solution16\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\01CSharpPart1\4.2-Homework-Solution16\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Stanev\Documents\CSharpDocs\01CSharpPart1\4.2-Homework-Solution16\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

@@ -1,0 +1,12 @@
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\05-SubsetSumsPlm\bin\Debug\05-SubsetSumsPlm.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\05-SubsetSumsPlm\bin\Debug\05-SubsetSumsPlm.exe
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\05-SubsetSumsPlm\bin\Debug\05-SubsetSumsPlm.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\05-SubsetSumsPlm\obj\Debug\05-SubsetSumsPlm.exe
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\05-SubsetSumsPlm\obj\Debug\05-SubsetSumsPlm.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\05-SubsetSumsPlm\obj\Debug\05-SubsetSumsPlm.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\05-SubsetSumsPlm\bin\Debug\05-SubsetSumsPlm.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\05-SubsetSumsPlm\obj\Debug\05-SubsetSumsPlm.exe
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\05-SubsetSumsPlm\obj\Debug\05-SubsetSumsPlm.pdb
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\05-SubsetSumsPlm\bin\Debug\05-SubsetSumsPlm.exe
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\05-SubsetSumsPlm\bin\Debug\05-SubsetSumsPlm.pdb
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\05-SubsetSumsPlm\obj\Debug\05-SubsetSumsPlm.csprojResolveAssemblyReference.cache
