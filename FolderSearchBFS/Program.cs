@@ -19,7 +19,7 @@ class TraverseDir
 
         List<string> startDirs = new List<string>();
 
-        startDirs.Add(@"c:\ATI");
+        startDirs.Add(@"c:\");
 
         string result = IntelligentSearch(
             "plm_supertap.txt",
