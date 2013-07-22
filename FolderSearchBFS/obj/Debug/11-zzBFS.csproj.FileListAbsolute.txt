@@ -1,0 +1,5 @@
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\11-zzBFS\bin\Debug\11-zzBFS.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\11-zzBFS\bin\Debug\11-zzBFS.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\11-zzBFS\bin\Debug\11-zzBFS.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\11-zzBFS\obj\Debug\11-zzBFS.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\11-zzBFS\obj\Debug\11-zzBFS.pdb

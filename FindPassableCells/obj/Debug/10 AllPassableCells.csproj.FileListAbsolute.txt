@@ -1,0 +1,9 @@
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication7\obj\Debug\10 AllPassableCells.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

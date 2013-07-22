@@ -1,0 +1,3 @@
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication10\obj\Debug\ConsoleApplication10.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication10\obj\Debug\ConsoleApplication10.pdb

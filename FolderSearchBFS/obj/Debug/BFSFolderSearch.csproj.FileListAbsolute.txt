@@ -1,0 +1,3 @@
+C:\Users\Stanev\Desktop\FolderSearchBFS\bin\Debug\11-zzBFS.exe.config
+C:\Users\Stanev\Desktop\FolderSearchBFS\obj\Debug\11-zzBFS.exe
+C:\Users\Stanev\Desktop\FolderSearchBFS\obj\Debug\11-zzBFS.pdb
