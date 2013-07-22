@@ -34,20 +34,20 @@ public static int[] tempArray;
 
 	    while (left <= leftEnd)
 	    {
-        tempArray[tempPosition] = numbers[left];
+            tempArray[tempPosition] = numbers[left];
 	    left += 1;
 	    tempPosition += 1;
 	    }
 	    while (mid <= right)
 	    {
-        tempArray[tempPosition] = numbers[mid];
+            tempArray[tempPosition] = numbers[mid];
 	    mid += 1;
 	    tempPosition += 1;
 	    }
 
 	    for (i = 0; i < numElements; i++)
 	    {
-        numbers[right] = tempArray[right];
+            numbers[right] = tempArray[right];
 	    right -= 1;
 	    }
     }
@@ -71,8 +71,8 @@ public static int[] tempArray;
     static void Main()
     {
 	    int[] arrayOne = {1, 3, 5, 2, 4, 8, 10, 6, 16, 14, 12 , -1, 0};
-        numbersCount = arrayOne.Length;
-        tempArray = new int[numbersCount];
+            numbersCount = arrayOne.Length;
+            tempArray = new int[numbersCount];
 
 	    MergeSort(arrayOne, numbersCount);
 
