@@ -1,0 +1,3 @@
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\MergeSort\bin\Debug\06-MergeSort.exe.config
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\MergeSort\obj\Debug\06-MergeSort.exe
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\MergeSort\obj\Debug\06-MergeSort.pdb
