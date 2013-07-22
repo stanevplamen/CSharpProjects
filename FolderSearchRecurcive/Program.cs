@@ -28,7 +28,7 @@ class RecurciveFolderSearch
 
     static void Main(string[] args)
     {
-        DirSearch("C:\\ATI");
+        DirSearch("C:\\");
     }
 }
 
