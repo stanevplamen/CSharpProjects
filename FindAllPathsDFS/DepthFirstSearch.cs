@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DFSExample
 {
-    class DFSExample // проверава всички
+    class DFSExample 
     {
         static char[,] matrix = new char[7, 7]
         {
