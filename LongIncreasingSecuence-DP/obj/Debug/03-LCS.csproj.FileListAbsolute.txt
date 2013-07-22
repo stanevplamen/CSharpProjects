@@ -1,0 +1,5 @@
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.exe
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LCS.exe
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LCS.pdb

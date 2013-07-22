@@ -1,0 +1,12 @@
+c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\18-LongestIncreasingNumbers\bin\Debug\18-LongestIncreasingNumbers.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\18-LongestIncreasingNumbers\bin\Debug\18-LongestIncreasingNumbers.exe
+c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\18-LongestIncreasingNumbers\bin\Debug\18-LongestIncreasingNumbers.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\18-LongestIncreasingNumbers\obj\Debug\18-LongestIncreasingNumbers.csprojResolveAssemblyReference.cache
+c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\18-LongestIncreasingNumbers\obj\Debug\18-LongestIncreasingNumbers.exe
+c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\18-LongestIncreasingNumbers\obj\Debug\18-LongestIncreasingNumbers.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\18-LongestIncreasingNumbers\bin\Debug\18-LongestIncreasingNumbers.exe.config
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\18-LongestIncreasingNumbers\obj\Debug\18-LongestIncreasingNumbers.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\18-LongestIncreasingNumbers\obj\Debug\18-LongestIncreasingNumbers.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\18-LongestIncreasingNumbers\bin\Debug\18-LongestIncreasingNumbers.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\18-LongestIncreasingNumbers\bin\Debug\18-LongestIncreasingNumbers.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\18-LongestIncreasingNumbers\obj\Debug\18-LongestIncreasingNumbers.csprojResolveAssemblyReference.cache

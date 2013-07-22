@@ -1,0 +1,9 @@
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.exe
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LCS.exe
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LCS.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LongIncreasingSecuence.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\03-LCS\bin\Debug\03-LCS.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LCS.exe
+C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\03-LCS\obj\Debug\03-LCS.pdb
