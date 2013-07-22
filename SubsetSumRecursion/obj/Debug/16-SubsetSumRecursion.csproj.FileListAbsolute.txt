@@ -1,2 +1,0 @@
-c:\users\stanev\documents\visual studio 2012\Projects\01-Arrays-Homework\16-SubsetSumRecursion\bin\Debug\16-SubsetSumRecursion.exe.config
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\RealHomeworks\01-Arrays-Homework\16-SubsetSumRecursion\bin\Debug\16-SubsetSumRecursion.exe.config

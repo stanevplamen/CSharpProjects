@@ -1,9 +1,0 @@
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\02.1DinamicProgramingDemos\06-MergeSort\bin\Debug\06-MergeSort.exe.config
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\02.1DinamicProgramingDemos\06-MergeSort\bin\Debug\06-MergeSort.exe
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\02.1DinamicProgramingDemos\06-MergeSort\bin\Debug\06-MergeSort.pdb
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\02.1DinamicProgramingDemos\06-MergeSort\obj\Debug\06-MergeSort.csprojResolveAssemblyReference.cache
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\02.1DinamicProgramingDemos\06-MergeSort\obj\Debug\06-MergeSort.exe
-C:\Users\Stanev\Documents\Visual Studio 2012\Projects\02.1DinamicProgramingDemos\06-MergeSort\obj\Debug\06-MergeSort.pdb
-C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\06-MergeSort\bin\Debug\06-MergeSort.exe.config
-C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\06-MergeSort\obj\Debug\06-MergeSort.exe
-C:\Users\Stanev\Documents\CSharpDocs\03AlgoAcademy-Part1\02ДинамичноОптимиране\02.1DinamicProgramingDemos\06-MergeSort\obj\Debug\06-MergeSort.pdb
