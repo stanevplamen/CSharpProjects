@@ -1,0 +1,11 @@
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\2.4. RecursionHomework\ConsoleApplication8\obj\Debug\09 BreadthFirstSearch.csprojResolveAssemblyReference.cache

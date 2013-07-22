@@ -1,0 +1,6 @@
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\09-1 zAddBreathFirstSearch\bin\Debug\09-1 zAddBreathFirstSearch.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\09-1 zAddBreathFirstSearch\obj\Debug\09-1 zAddBreathFirstSearch.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\09-1 zAddBreathFirstSearch\bin\Debug\09-1 zAddBreathFirstSearch.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\09-1 zAddBreathFirstSearch\bin\Debug\09-1 zAddBreathFirstSearch.pdb
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\09-1 zAddBreathFirstSearch\obj\Debug\09-1 zAddBreathFirstSearch.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\09-1 zAddBreathFirstSearch\obj\Debug\09-1 zAddBreathFirstSearch.pdb
