@@ -111,6 +111,7 @@ namespace Tree
                         if (currentNode != node)
                         {
                             currentSum = node.Value + currentNode.Value;
+                            currentNodes.RemoveAt(currentNodes.Count - 1);
                         }
                         else
                         {
@@ -133,6 +134,7 @@ namespace Tree
                     else
                     {
                         currentSum = CheckSum(sum, currentSum, currentNode.Value, currentNodes);
+                        currentNodes.RemoveAt(currentNodes.Count - 1);
                     }
                 }
             }
