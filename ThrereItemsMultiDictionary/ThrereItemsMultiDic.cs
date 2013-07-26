@@ -8,7 +8,8 @@ using Wintellect.PowerCollections;
 class ThreeItemsMulti
 {
     static MultiDictionary<string, Dictionary<string, string>> threeItemsDict;
-    private static void AddGrade(string[] words)
+
+    private static void LoadStoreDictionary(string[] words)
     {
         threeItemsDict.Add(words[0], new Dictionary<string, string>() { { words[1], words[2] },});       
     }
@@ -22,12 +23,12 @@ class ThreeItemsMulti
             string line = reader.ReadLine();
             while (line != null)
             {
-                string[] words = line.Split('|');
-                for (int i = 0; i < words.Length; i++)
+                string[] phonebookItems = line.Split('|');
+                for (int i = 0; i < phonebookItems.Length; i++)
                 {
-                    words[i] = words[i].Trim(' ', ' ');
+                    phonebookItems[i] = phonebookItems[i].Trim(' ', ' ');
                 }
-                AddGrade(words);
+                LoadStoreDictionary(phonebookItems);
                 line = reader.ReadLine();
             }
         }

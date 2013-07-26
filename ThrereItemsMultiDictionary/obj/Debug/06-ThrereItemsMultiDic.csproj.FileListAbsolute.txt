@@ -6,3 +6,10 @@ C:\Users\Stanev\Documents\Visual Studio 2012\Projects\4.2.DictionariesHashesSets
 C:\Users\Stanev\Documents\Visual Studio 2012\Projects\4.2.DictionariesHashesSets-Homework\06a-ThrereItemsMultiDic\obj\Debug\06a-ThrereItemsMultiDic.exe
 C:\Users\Stanev\Documents\Visual Studio 2012\Projects\4.2.DictionariesHashesSets-Homework\06a-ThrereItemsMultiDic\obj\Debug\06a-ThrereItemsMultiDic.pdb
 C:\Users\Stanev\Documents\Visual Studio 2012\Projects\4.2.DictionariesHashesSets-Homework\06a-ThrereItemsMultiDic\obj\Debug\06-ThrereItemsMultiDic.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\bin\Debug\06a-ThrereItemsMultiDic.exe.config
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\obj\Debug\06a-ThrereItemsMultiDic.exe
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\obj\Debug\06a-ThrereItemsMultiDic.pdb
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\bin\Debug\06a-ThrereItemsMultiDic.exe
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\bin\Debug\06a-ThrereItemsMultiDic.pdb
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\bin\Debug\PowerCollections.xml
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\ThrereItemsMultiDictionary\obj\Debug\06-ThrereItemsMultiDic.csprojResolveAssemblyReference.cache
