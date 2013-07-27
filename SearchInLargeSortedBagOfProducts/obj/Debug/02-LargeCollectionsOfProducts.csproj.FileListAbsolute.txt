@@ -1,0 +1,8 @@
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\bin\Debug\02-LargeCollectionsOfProducts.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\bin\Debug\02-LargeCollectionsOfProducts.exe
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\bin\Debug\02-LargeCollectionsOfProducts.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\obj\Debug\02-LargeCollectionsOfProducts.csprojResolveAssemblyReference.cache
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\obj\Debug\02-LargeCollectionsOfProducts.exe
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\obj\Debug\02-LargeCollectionsOfProducts.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\bin\Debug\PowerCollections.dll
+c:\users\stanev\documents\visual studio 2012\Projects\5.2.Advanced-Data-Structures-Homework\02-LargeCollectionsOfProducts\bin\Debug\PowerCollections.xml
