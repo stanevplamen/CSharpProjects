@@ -1,0 +1,11 @@
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\bin\Debug\01-ThreeItemsSortedDictionary.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\bin\Debug\01-ThreeItemsSortedDictionary.exe
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\bin\Debug\01-ThreeItemsSortedDictionary.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\bin\Debug\PowerCollections.dll
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\bin\Debug\PowerCollections.xml
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\obj\Debug\01-ThreeItemsSortedDictionary.csprojResolveAssemblyReference.cache
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\obj\Debug\01-ThreeItemsSortedDictionary.exe
+c:\users\stanev\documents\visual studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\obj\Debug\01-ThreeItemsSortedDictionary.pdb
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\06-DataStructuresEfficiency\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\bin\Debug\01-ThreeItemsSortedDictionary.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\06-DataStructuresEfficiency\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\obj\Debug\01-ThreeItemsSortedDictionary.exe
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\06-DataStructuresEfficiency\06.1.DataStructuresEfficiency-Homework\01-ThreeItemsSortedDictionary\obj\Debug\01-ThreeItemsSortedDictionary.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\bin\Debug\02-LargeStorageProductsData.exe.config
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\obj\Debug\02-LargeStorageProductsData.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\obj\Debug\02-LargeStorageProductsData.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\bin\Debug\02-LargeStorageProductsData.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\bin\Debug\02-LargeStorageProductsData.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\bin\Debug\PowerCollections.dll
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProductsData\bin\Debug\PowerCollections.xml
