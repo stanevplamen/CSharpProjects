@@ -6,3 +6,6 @@ C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficie
 C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProdictsData-OrderedMultiD\obj\Debug\02-LargeStorageProductsData-OrderedMultiD.csprojResolveAssemblyReference.cache
 C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProdictsData-OrderedMultiD\obj\Debug\02-LargeStorageProdictsData-OrderedMultiD.exe
 C:\Users\Stanev\Documents\Visual Studio 2012\Projects\06.1.DataStructuresEfficiency-Homework\02-LargeStorageProdictsData-OrderedMultiD\obj\Debug\02-LargeStorageProdictsData-OrderedMultiD.pdb
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\LargeStorageProdictsData-OrderedMultiDict\bin\Debug\02-LargeStorageProdictsData-OrderedMultiD.exe.config
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\LargeStorageProdictsData-OrderedMultiDict\obj\Debug\02-LargeStorageProdictsData-OrderedMultiD.exe
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\LargeStorageProdictsData-OrderedMultiDict\obj\Debug\02-LargeStorageProdictsData-OrderedMultiD.pdb
