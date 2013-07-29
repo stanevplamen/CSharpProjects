@@ -1,0 +1,6 @@
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\12-EightQueenGame\bin\Debug\12-EightQueenGame.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\12-EightQueenGame\bin\Debug\12-EightQueenGame.exe
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\12-EightQueenGame\bin\Debug\12-EightQueenGame.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\12-EightQueenGame\obj\Debug\12-EightQueenGame.csprojResolveAssemblyReference.cache
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\12-EightQueenGame\obj\Debug\12-EightQueenGame.exe
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\12-EightQueenGame\obj\Debug\12-EightQueenGame.pdb
