@@ -1,6 +1,6 @@
 ﻿using System;
 
-class EightQueenGame
+class EightQueensGame
 {
     static int boardLength = 8;
     static int uniqueCounter = 0;
@@ -18,7 +18,7 @@ class EightQueenGame
         // в една колона и един ред винаги имаме по една царица
         if (columnIndex == boardLength)
         {
-            PrintMatrix(board);
+            PrintBoard(board);
             uniqueCounter++;
             return;
         }
@@ -58,7 +58,7 @@ class EightQueenGame
         }
     }
 
-    static void PrintMatrix(bool[,] board)
+    static void PrintBoard(bool[,] board)
     {
         for (int i = 0; i < board.GetLength(0); i++)
         {
