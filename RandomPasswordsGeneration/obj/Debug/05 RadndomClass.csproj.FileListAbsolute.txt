@@ -1,0 +1,12 @@
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\05 RadndomClass\bin\Debug\05 RadndomClass.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\05 RadndomClass\bin\Debug\05 RadndomClass.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\05 RadndomClass\bin\Debug\05 RadndomClass.pdb
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\05 RadndomClass\obj\Debug\05 RadndomClass.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\05 RadndomClass\obj\Debug\05 RadndomClass.exe
+C:\Users\Stanev\Documents\CSharpDocs\Solution1\05 RadndomClass\obj\Debug\05 RadndomClass.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\5.1 Classes_classwork\05 RadndomClass\bin\Debug\05 RadndomClass.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\5.1 Classes_classwork\05 RadndomClass\obj\Debug\05 RadndomClass.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\5.1 Classes_classwork\05 RadndomClass\obj\Debug\05 RadndomClass.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\5.1 Classes_classwork\05 RadndomClass\bin\Debug\05 RadndomClass.exe
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\5.1 Classes_classwork\05 RadndomClass\bin\Debug\05 RadndomClass.pdb
+C:\Users\Stanev\Documents\CSharpDocs\02CSharpPart2\5.1 Classes_classwork\05 RadndomClass\obj\Debug\05 RadndomClass.csprojResolveAssemblyReference.cache

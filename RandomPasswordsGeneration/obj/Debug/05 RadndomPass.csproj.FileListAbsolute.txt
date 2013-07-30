@@ -1,0 +1,3 @@
+C:\Users\Stanev\Desktop\RandomPasswordsGeneration\bin\Debug\05 RadndomClass.exe.config
+C:\Users\Stanev\Desktop\RandomPasswordsGeneration\obj\Debug\05 RadndomClass.exe
+C:\Users\Stanev\Desktop\RandomPasswordsGeneration\obj\Debug\05 RadndomClass.pdb
