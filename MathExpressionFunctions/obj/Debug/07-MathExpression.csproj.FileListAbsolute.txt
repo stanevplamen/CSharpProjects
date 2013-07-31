@@ -1,0 +1,8 @@
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\bin\Debug\07-MathExpression.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\obj\Debug\07-MathExpression.csprojResolveAssemblyReference.cache
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\bin\Debug\07-MathExpression.exe
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\bin\Debug\07-MathExpression.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\obj\Debug\07-MathExpression.exe
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\obj\Debug\07-MathExpression.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\bin\Debug\PowerCollections.dll
+c:\users\stanev\documents\visual studio 2012\Projects\05-ClassesAndObjects\07-MathExpression\bin\Debug\PowerCollections.xml
