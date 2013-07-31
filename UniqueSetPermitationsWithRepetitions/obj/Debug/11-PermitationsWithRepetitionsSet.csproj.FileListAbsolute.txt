@@ -1,0 +1,6 @@
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\11-PermitationsWithRepetitionsSet\bin\Debug\11-PermitationsWithRepetitionsSet.exe.config
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\11-PermitationsWithRepetitionsSet\bin\Debug\11-PermitationsWithRepetitionsSet.exe
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\11-PermitationsWithRepetitionsSet\bin\Debug\11-PermitationsWithRepetitionsSet.pdb
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\11-PermitationsWithRepetitionsSet\obj\Debug\11-PermitationsWithRepetitionsSet.exe
+c:\users\stanev\documents\visual studio 2012\Projects\7.4.RecursionHomework\11-PermitationsWithRepetitionsSet\obj\Debug\11-PermitationsWithRepetitionsSet.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\7.4.RecursionHomework\11-PermitationsWithRepetitionsSet\obj\Debug\11-PermitationsWithRepetitionsSet.csprojResolveAssemblyReference.cache
