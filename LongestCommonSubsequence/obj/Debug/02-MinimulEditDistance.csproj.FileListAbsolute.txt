@@ -1,0 +1,1 @@
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-MinimulEditDistance\bin\Debug\02-MinimulEditDistance.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\01-KnapsackProblemOptimized\bin\Debug\01-KnapsackProblemOptimized.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\01-KnapsackProblemOptimized\bin\Debug\01-KnapsackProblemOptimized.exe
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\01-KnapsackProblemOptimized\bin\Debug\01-KnapsackProblemOptimized.pdb
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\01-KnapsackProblemOptimized\obj\Debug\01-KnapsackProblemOptimized.exe
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\01-KnapsackProblemOptimized\obj\Debug\01-KnapsackProblemOptimized.pdb

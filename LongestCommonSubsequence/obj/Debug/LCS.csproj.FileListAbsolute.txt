@@ -1,0 +1,6 @@
+C:\Users\Stanev\Desktop\LongestCommonSubsequence\bin\Debug\02-MinimulEditDistance.exe.config
+C:\Users\Stanev\Desktop\LongestCommonSubsequence\obj\Debug\02-MinimulEditDistance.exe
+C:\Users\Stanev\Desktop\LongestCommonSubsequence\obj\Debug\02-MinimulEditDistance.pdb
+C:\Users\Stanev\Desktop\LongestCommonSubsequence\bin\Debug\02-MinimulEditDistance.exe
+C:\Users\Stanev\Desktop\LongestCommonSubsequence\bin\Debug\02-MinimulEditDistance.pdb
+C:\Users\Stanev\Desktop\LongestCommonSubsequence\obj\Debug\LCS.csprojResolveAssemblyReference.cache
