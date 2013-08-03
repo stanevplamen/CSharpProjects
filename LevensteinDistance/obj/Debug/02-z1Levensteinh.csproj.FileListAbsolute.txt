@@ -1,0 +1,12 @@
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-z1Levensteinh\bin\Debug\02-z1Levensteinh.exe.config
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-z1Levensteinh\bin\Debug\02-z1Levensteinh.exe
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-z1Levensteinh\bin\Debug\02-z1Levensteinh.pdb
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-z1Levensteinh\obj\Debug\02-z1Levensteinh.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-z1Levensteinh\obj\Debug\02-z1Levensteinh.exe
+C:\Users\Stanev\Documents\CSharpDocs\04CSharpPart5-DSA\09-DynamicProgramming\9.2-DinamicProgramming-homework\02-z1Levensteinh\obj\Debug\02-z1Levensteinh.pdb
+C:\Users\Stanev\Desktop\LevensteinDistance\bin\Debug\02-z1Levensteinh.exe.config
+C:\Users\Stanev\Desktop\LevensteinDistance\obj\Debug\02-z1Levensteinh.exe
+C:\Users\Stanev\Desktop\LevensteinDistance\obj\Debug\02-z1Levensteinh.pdb
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\LevensteinDistance\bin\Debug\02-z1Levensteinh.exe.config
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\LevensteinDistance\obj\Debug\02-z1Levensteinh.exe
+C:\Users\Stanev\Documents\GitHub\CSharpProjects\LevensteinDistance\obj\Debug\02-z1Levensteinh.pdb
