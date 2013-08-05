@@ -1,0 +1,8 @@
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\bin\Debug\01-FriendsOfPesho.exe.config
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\bin\Debug\01-FriendsOfPesho.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\bin\Debug\01-FriendsOfPesho.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\obj\Debug\01-FriendsOfPesho.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\obj\Debug\01-FriendsOfPesho.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\obj\Debug\01-FriendsOfPesho.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\bin\Debug\PowerCollections.dll
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\01-FriendsOfPesho\bin\Debug\PowerCollections.xml

@@ -1,0 +1,6 @@
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\02-z2TryPrim\bin\Debug\02-z2TryPrim.exe.config
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\02-z2TryPrim\bin\Debug\02-z2TryPrim.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\02-z2TryPrim\bin\Debug\02-z2TryPrim.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\02-z2TryPrim\obj\Debug\03-TryPrimOK.csprojResolveAssemblyReference.cache
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\02-z2TryPrim\obj\Debug\02-z2TryPrim.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\10.2.GraphAlgorithms-Homework\02-z2TryPrim\obj\Debug\02-z2TryPrim.pdb
