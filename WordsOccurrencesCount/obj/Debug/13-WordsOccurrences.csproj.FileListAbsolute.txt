@@ -1,0 +1,8 @@
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\bin\Debug\13-WordsOccurrences.exe.config
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\bin\Debug\13-WordsOccurrences.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\bin\Debug\13-WordsOccurrences.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\obj\Debug\13-WordsOccurrences.exe
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\obj\Debug\13-WordsOccurrences.pdb
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\bin\Debug\PowerCollections.dll
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\bin\Debug\PowerCollections.xml
+C:\Users\Stanev\Documents\Visual Studio 2012\Projects\07-TextFilesHomework\13-WordsOccurrences\obj\Debug\13-WordsOccurrences.csprojResolveAssemblyReference.cache
