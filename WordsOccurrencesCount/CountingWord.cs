@@ -129,14 +129,37 @@ class CountingWord
         string fileName = @"..\..\result.txt";
         StreamWriter streamWriter = new StreamWriter(fileName);
 
-        using (streamWriter)
+        try
         {
-            foreach (var pair in countedWords.Reversed())
+             using (streamWriter)
             {
-                streamWriter.WriteLine(string.Format("{0,12} - {1} times", pair.Value, pair.Key));
+                foreach (var pair in countedWords.Reversed())
+                {
+                    streamWriter.WriteLine(string.Format("{0,12} - {1} times", pair.Value, pair.Key));
+                }
             }
+            Console.WriteLine("The finish file is written!");
         }
-        Console.WriteLine("The finish file is written!");
+        catch (DirectoryNotFoundException e)
+        {
+            Console.WriteLine("Directory not found");
+            throw new DirectoryNotFoundException(e.Message);
+        }
+        catch (FileNotFoundException e)
+        {
+            Console.WriteLine("File not found");
+            throw new FileNotFoundException(e.Message);
+        }
+        catch (ArgumentNullException)
+        {
+            Console.WriteLine("The path is null");
+            throw new ArgumentNullException();
+        }
+        catch (ArgumentException e)
+        {
+            Console.WriteLine("The path is a zero-length string, contains only white space, or contains one or more invalid characters");
+            throw new ArgumentException(e.Message);
+        }
     }
     #endregion
 }
