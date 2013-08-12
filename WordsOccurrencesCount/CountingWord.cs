@@ -58,7 +58,7 @@ class CountingWord
                 wordsToCount.Add(wordsFromText[i]); 
             }
         }
-        // get all words and their number of occurence from test.txt in the OrderedMultidictionary
+        // get all words and their number of occurence from test.txt in the Dictionary
         Array.Sort(wordsTest);
         testWordsDictionary = new Dictionary<string, int>();
         int counter = 1;
